@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # 用于进行http请求，以及MD5加密，生成签名的工具类
 # copy from https://github.com/OKCoin/rest/blob/master/python/HttpMD5Util.py
